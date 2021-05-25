@@ -3,7 +3,7 @@
   <a href="https://github.com/antoniocarlos2003" target="_blank" >
     <img alt="Github - Antonio carlos" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
-  <a href="" target="_blank" >
+  <a href="https://www.linkedin.com/in/antonio-carlos-5a58731ba/" target="_blank" >
     <img alt="" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
   </a>
   <a href="mailto:antoniocarlos9105@hotmail.com" target="_blank" >
